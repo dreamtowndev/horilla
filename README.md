@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Horilla 🦍** [![LGPL License](https://img.shields.io/badge/license-LGPL-green.svg)](https://www.gnu.org/licenses/lgpl-3.0)  [![Docker](https://img.shields.io/badge/Docker-Horilla-blue?logo=docker)](https://hub.docker.com/r/horilla/horilla)
 
 **Horilla** is a Free and Open Source HRMS (Human Resource Management System) Software designed to streamline HR processes and enhance organizational efficiency.
@@ -380,3 +381,6 @@ python manage.py runserver 8080   # For Windows
 ---
 
 This README provides a comprehensive guide to installing and setting up Horilla on various platforms. If you encounter any issues, feel free to reach out to the Horilla community for support. Happy coding! 🚀
+=======
+# horilla
+>>>>>>> 5cbf1ea13333d19b4944e3802bf92ff9f0fed1bd
